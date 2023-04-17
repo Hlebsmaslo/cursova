@@ -1,8 +1,0 @@
-C:\Users\TUF\Desktop\cursova\cursova\bin\Debug\cursova.exe.config
-C:\Users\TUF\Desktop\cursova\cursova\bin\Debug\cursova.exe
-C:\Users\TUF\Desktop\cursova\cursova\bin\Debug\cursova.pdb
-C:\Users\TUF\Desktop\cursova\cursova\obj\Debug\cursova.csproj.AssemblyReference.cache
-C:\Users\TUF\Desktop\cursova\cursova\obj\Debug\cursova.csproj.SuggestedBindingRedirects.cache
-C:\Users\TUF\Desktop\cursova\cursova\obj\Debug\cursova.csproj.CoreCompileInputs.cache
-C:\Users\TUF\Desktop\cursova\cursova\obj\Debug\cursova.exe
-C:\Users\TUF\Desktop\cursova\cursova\obj\Debug\cursova.pdb
