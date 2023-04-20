@@ -86,9 +86,8 @@ namespace cinema
                             Console.WriteLine("Квиток не зарезервований. Можливо він вже зарезервований або ви ввели неправильне число.");
                         }
                     }
-                    else if (choice == "2")
-                    { }
-                    else if (choice == "4")
+                   
+                    else if (choice == "3")
                     {
                         break;
                     }
